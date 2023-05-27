@@ -7,13 +7,11 @@
     "react-mde": "11.5.0",
     "react-split": "2.0.13",
     "showdown": "1.9.1",
+    "vit": "^0.0.1",
     "vite": "^4.3.9"
-  },
-  "devDependencies": {
-    
   },
   "scripts": {
     "start": "vite",
-    "build": "vitebuild"
+    "build": "vite build"
   }
 }
